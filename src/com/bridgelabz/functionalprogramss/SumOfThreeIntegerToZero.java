@@ -6,7 +6,7 @@ public class SumOfThreeIntegerToZero {
 	static Scanner sc = new Scanner(System.in);
 
 	public static void main(String[] args) {
-		System.out.println("Enter no of inputs");
+		System.out.println("Enter no of inputs ");
 		int n = sc.nextInt();
 		sum0count(n);
 	}
