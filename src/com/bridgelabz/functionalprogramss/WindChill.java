@@ -14,7 +14,7 @@ public class WindChill {
 		if (Math.abs(f) > 50 || ws > 120 || ws < 3) {
 			System.out.println("enter correct input: ");
 		} else {
-			windchill(f, ws);
+			 windchill(f, ws);
 		}
 	}
 
